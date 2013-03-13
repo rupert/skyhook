@@ -1,0 +1,3 @@
+A ctypes wrapper around the Skyhook location API.
+
+Tested on Mac OS X but should work fine on Linux and Windows with a little tweaking.
